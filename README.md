@@ -1,2 +1,3 @@
-Manage_MSStore
-Add or remove MS Store from online system
+# Manage_MSStore
+
+A simple tool to **add or remove Microsoft Store** from a Windows system.  
